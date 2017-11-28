@@ -10,5 +10,9 @@ In this tutorial, we will discuss the following;
 </ul>
 <hr>
 <ol>
-  <li><u>Choosing an AMI for R</u></li>
+  <li><b>Choosing an AMI for R</b></li>
+  <li><b>Choosing an Insatance type for R</b></li>
+  <li><b>Confguring Instance Details</b></li>
+  <li><b>Configuring Security Group</b></li>
+  <li><b>Configuring Shiny Server</b></li>
 </ol>
