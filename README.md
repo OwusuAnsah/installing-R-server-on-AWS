@@ -1,2 +1,2 @@
-# installing-R-server-on-AWS
-How to install an R Studios server on Amazon Web Services Cloud
+# Install and run R, RStudio Server, and Shiny Server on Amazon EC2
+A quick overview on how to install and run R, R Studios server on Amazon Web Services Cloud
