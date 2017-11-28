@@ -20,7 +20,7 @@ For programming and development, the general-purpose T2 instance types are suffi
   Details of more <a href="https://aws.amazon.com/ec2/instance-types/">instance types</a>
   <li><b>Confguring Instance Details</b></li>
   To configure the instance maintain the default options and pass in user data to perform automated tasks and in this instance, we pass in scripts to install R and Shiny server which helps create interactive dashboards.<br>
-  <img src="https://github.com/OwusuAnsah/installing-R-server-on-AWS/blob/master/R_Best_Practices_Image_2.png">
+  <img src="https://github.com/OwusuAnsah/installing-R-server-on-AWS/blob/master/R_Best_Practices_Image_2.png" style="width:60%">
   <li><b>Configuring Security Group</b></li>
   <li><b>Configuring Shiny Server</b></li>
 </ol>
