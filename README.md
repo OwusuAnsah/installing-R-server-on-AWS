@@ -8,3 +8,7 @@ In this tutorial, we will discuss the following;
   <li>Configuring Security Group</li>
   <li>Configuring Shiny Server</li>
 </ul>
+<hr>
+<ol>
+  <li><u>Choosing an AMI for R</u></li>
+</ol>
