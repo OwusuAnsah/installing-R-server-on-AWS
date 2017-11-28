@@ -19,6 +19,8 @@ In this tutorial, we will focus on the following;
 For programming and development, the general-purpose T2 instance types are sufficient and cheap, and t2.micro is available through the <a href="https://aws.amazon.com/free/">AWS Free Tier.<a>
   Details of more <a href="https://aws.amazon.com/ec2/instance-types/">instance types</a>
   <li><b>Confguring Instance Details</b></li>
+  To configure the instance maintain the default options and pass in user data to perform automated tasks and in this instance, we pass in scripts to install R and Shiny server which helps create interactive dashboards. 
+  <img></img>
   <li><b>Configuring Security Group</b></li>
   <li><b>Configuring Shiny Server</b></li>
 </ol>
