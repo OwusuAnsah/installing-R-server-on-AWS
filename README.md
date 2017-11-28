@@ -11,8 +11,7 @@ In this tutorial, we will focus on the following;
 <hr>
 <ol>
   <li><b>Choosing an AMI for R</b></li>
-  First and foremost, you need to launch an EC2 instance and to do that, you have to choose an instance using Amazon Linux AMI since it has a stable version of R in its repository
-  Launch an instance using Amazon Linux AMI since it has a stable version of R in its repository
+  First and foremost, you need to launch an EC2 instance and to do that, you have to choose an AMI, In this tutorial, we'll be using the <a href="https://aws.amazon.com/amazon-linux-ami/">Amazon Linux AMI</a> since it has a stable version of R in its repository.
   <li><b>Choosing an Insatance type for R</b></li>
   <li><b>Confguring Instance Details</b></li>
   <li><b>Configuring Security Group</b></li>
