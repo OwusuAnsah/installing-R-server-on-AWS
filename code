@@ -1,4 +1,4 @@
-//user data
+<!--user data-->
 #!/bin/bash
 #install R
 yum install -y R
@@ -17,3 +17,7 @@ rm shiny-server-1.5.4.869-rh5-x86_64.rpm
 #add user(s)
 useradd username
 echo username:password | chpasswd 
+
+<!--Change the user name and password based on your requirements
+You can add additional users with respective passwords-->
+
